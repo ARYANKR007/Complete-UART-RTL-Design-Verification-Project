@@ -1,0 +1,8 @@
+build/
+work/
+transcript
+vsim.wlf
+*.vcd
+*.vvp
+simv*
+ csrc/
